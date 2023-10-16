@@ -1,0 +1,438 @@
+C:\Users\joaom\source\repos\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\joaom\source\repos\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\joaom\source\repos\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\TrabalhoCD.exe
+C:\Users\joaom\source\repos\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\TrabalhoCD.deps.json
+C:\Users\joaom\source\repos\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\TrabalhoCD.runtimeconfig.json
+C:\Users\joaom\source\repos\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\TrabalhoCD.runtimeconfig.dev.json
+C:\Users\joaom\source\repos\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\TrabalhoCD.dll
+C:\Users\joaom\source\repos\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\TrabalhoCD.pdb
+C:\Users\joaom\source\repos\TrabalhoCD\TrabalhoCD\obj\Debug\netcoreapp3.1\TrabalhoCD.csprojAssemblyReference.cache
+C:\Users\joaom\source\repos\TrabalhoCD\TrabalhoCD\obj\Debug\netcoreapp3.1\TrabalhoCD.AssemblyInfoInputs.cache
+C:\Users\joaom\source\repos\TrabalhoCD\TrabalhoCD\obj\Debug\netcoreapp3.1\TrabalhoCD.AssemblyInfo.cs
+C:\Users\joaom\source\repos\TrabalhoCD\TrabalhoCD\obj\Debug\netcoreapp3.1\TrabalhoCD.csproj.CoreCompileInputs.cache
+C:\Users\joaom\source\repos\TrabalhoCD\TrabalhoCD\obj\Debug\netcoreapp3.1\TrabalhoCD.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\joaom\source\repos\TrabalhoCD\TrabalhoCD\obj\Debug\netcoreapp3.1\staticwebassets\TrabalhoCD.StaticWebAssets.Manifest.cache
+C:\Users\joaom\source\repos\TrabalhoCD\TrabalhoCD\obj\Debug\netcoreapp3.1\staticwebassets\TrabalhoCD.StaticWebAssets.xml
+C:\Users\joaom\source\repos\TrabalhoCD\TrabalhoCD\obj\Debug\netcoreapp3.1\scopedcss\bundle\TrabalhoCD.styles.css
+C:\Users\joaom\source\repos\TrabalhoCD\TrabalhoCD\obj\Debug\netcoreapp3.1\TrabalhoCD.RazorTargetAssemblyInfo.cache
+C:\Users\joaom\source\repos\TrabalhoCD\TrabalhoCD\obj\Debug\netcoreapp3.1\TrabalhoCD.dll
+C:\Users\joaom\source\repos\TrabalhoCD\TrabalhoCD\obj\Debug\netcoreapp3.1\TrabalhoCD.pdb
+C:\Users\joaom\source\repos\TrabalhoCD\TrabalhoCD\obj\Debug\netcoreapp3.1\TrabalhoCD.genruntimeconfig.cache
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\TrabalhoCD.exe
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\TrabalhoCD.deps.json
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\TrabalhoCD.runtimeconfig.json
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\TrabalhoCD.runtimeconfig.dev.json
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\TrabalhoCD.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\TrabalhoCD.pdb
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\obj\Debug\netcoreapp3.1\TrabalhoCD.csprojAssemblyReference.cache
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\obj\Debug\netcoreapp3.1\staticwebassets\TrabalhoCD.StaticWebAssets.Manifest.cache
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\obj\Debug\netcoreapp3.1\staticwebassets\TrabalhoCD.StaticWebAssets.xml
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\obj\Debug\netcoreapp3.1\TrabalhoCD.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\obj\Debug\netcoreapp3.1\TrabalhoCD.AssemblyInfoInputs.cache
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\obj\Debug\netcoreapp3.1\TrabalhoCD.AssemblyInfo.cs
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\obj\Debug\netcoreapp3.1\TrabalhoCD.RazorTargetAssemblyInfo.cache
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\obj\Debug\netcoreapp3.1\TrabalhoCD.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\obj\Debug\netcoreapp3.1\TrabalhoCD.pdb
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\TrabalhoCD.exe
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\TrabalhoCD.deps.json
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\TrabalhoCD.runtimeconfig.json
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\TrabalhoCD.runtimeconfig.dev.json
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\TrabalhoCD.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\TrabalhoCD.pdb
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\obj\Debug\netcoreapp3.1\TrabalhoCD.csprojAssemblyReference.cache
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\obj\Debug\netcoreapp3.1\staticwebassets\TrabalhoCD.StaticWebAssets.Manifest.cache
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\obj\Debug\netcoreapp3.1\staticwebassets\TrabalhoCD.StaticWebAssets.xml
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\obj\Debug\netcoreapp3.1\TrabalhoCD.AssemblyInfoInputs.cache
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\obj\Debug\netcoreapp3.1\TrabalhoCD.AssemblyInfo.cs
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\obj\Debug\netcoreapp3.1\TrabalhoCD.RazorTargetAssemblyInfo.cache
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\obj\Debug\netcoreapp3.1\TrabalhoCD.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\obj\Debug\netcoreapp3.1\TrabalhoCD.pdb
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\obj\Debug\netcoreapp3.1\TrabalhoCD.csproj.CopyComplete
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\ClassLibrary1.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\ClassLibrary1.pdb
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\obj\Debug\netcoreapp3.1\TrabalhoCD.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\obj\Debug\netcoreapp3.1\TrabalhoCD.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\ClassLibrary1.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\ClassLibrary1.pdb
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\obj\Debug\netcoreapp3.1\TrabalhoCD.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\obj\Debug\netcoreapp3.1\TrabalhoCD.csproj.CopyComplete
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\obj\Debug\netcoreapp3.1\TrabalhoCD.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\obj\Debug\netcoreapp3.1\TrabalhoCD.pdb
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\TrabalhoCD.exe
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\TrabalhoCD.deps.json
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\TrabalhoCD.runtimeconfig.json
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\TrabalhoCD.runtimeconfig.dev.json
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\TrabalhoCD.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\TrabalhoCD.pdb
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\ClassLibrary1.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\ClassLibrary1.pdb
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\obj\Debug\netcoreapp3.1\TrabalhoCD.csproj.AssemblyReference.cache
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\obj\Debug\netcoreapp3.1\TrabalhoCD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\obj\Debug\netcoreapp3.1\TrabalhoCD.AssemblyInfoInputs.cache
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\obj\Debug\netcoreapp3.1\TrabalhoCD.AssemblyInfo.cs
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\obj\Debug\netcoreapp3.1\TrabalhoCD.csproj.CoreCompileInputs.cache
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\obj\Debug\netcoreapp3.1\TrabalhoCD.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\obj\Debug\netcoreapp3.1\TrabalhoCD.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\obj\Debug\netcoreapp3.1\staticwebassets\TrabalhoCD.StaticWebAssets.Manifest.cache
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\obj\Debug\netcoreapp3.1\staticwebassets\TrabalhoCD.StaticWebAssets.xml
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\obj\Debug\netcoreapp3.1\scopedcss\bundle\TrabalhoCD.styles.css
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\obj\Debug\netcoreapp3.1\TrabalhoCD.RazorTargetAssemblyInfo.cache
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\obj\Debug\netcoreapp3.1\TrabalhoCD.genruntimeconfig.cache
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\obj\Debug\netcoreapp3.1\TrabalhoCD.csproj.CopyComplete
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\TrabalhoCD.exe
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\TrabalhoCD.deps.json
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\TrabalhoCD.runtimeconfig.json
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\TrabalhoCD.runtimeconfig.dev.json
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\TrabalhoCD.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\TrabalhoCD.pdb
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\ClassLibrary1.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\bin\Debug\netcoreapp3.1\ClassLibrary1.pdb
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\obj\Debug\netcoreapp3.1\TrabalhoCD.csproj.AssemblyReference.cache
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\obj\Debug\netcoreapp3.1\TrabalhoCD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\obj\Debug\netcoreapp3.1\TrabalhoCD.AssemblyInfoInputs.cache
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\obj\Debug\netcoreapp3.1\TrabalhoCD.AssemblyInfo.cs
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\obj\Debug\netcoreapp3.1\TrabalhoCD.csproj.CoreCompileInputs.cache
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\obj\Debug\netcoreapp3.1\TrabalhoCD.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\obj\Debug\netcoreapp3.1\TrabalhoCD.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\obj\Debug\netcoreapp3.1\staticwebassets\TrabalhoCD.StaticWebAssets.Manifest.cache
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\obj\Debug\netcoreapp3.1\staticwebassets\TrabalhoCD.StaticWebAssets.xml
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\obj\Debug\netcoreapp3.1\scopedcss\bundle\TrabalhoCD.styles.css
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\obj\Debug\netcoreapp3.1\TrabalhoCD.RazorTargetAssemblyInfo.cache
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\obj\Debug\netcoreapp3.1\TrabalhoCD.csproj.CopyComplete
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\obj\Debug\netcoreapp3.1\TrabalhoCD.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\obj\Debug\netcoreapp3.1\TrabalhoCD.pdb
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\obj\Debug\netcoreapp3.1\TrabalhoCD.genruntimeconfig.cache

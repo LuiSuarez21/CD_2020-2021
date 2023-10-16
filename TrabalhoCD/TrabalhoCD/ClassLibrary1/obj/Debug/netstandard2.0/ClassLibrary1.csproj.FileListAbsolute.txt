@@ -1,0 +1,36 @@
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary1.deps.json
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary1.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary1.pdb
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.csprojAssemblyReference.cache
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.AssemblyInfoInputs.cache
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.AssemblyInfo.cs
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\TPF\TrabalhoCD\TrabalhoCD\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.pdb
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary1.deps.json
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary1.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary1.pdb
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.csprojAssemblyReference.cache
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.AssemblyInfoInputs.cache
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.AssemblyInfo.cs
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.pdb
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.pdb
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary1.deps.json
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary1.dll
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary1.pdb
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.AssemblyInfoInputs.cache
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.AssemblyInfo.cs
+C:\Users\jlce1\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary1.deps.json
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary1.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary1.pdb
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.AssemblyInfoInputs.cache
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.AssemblyInfo.cs
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.dll
+C:\Users\josel\Desktop\LESI\2º ano\2 Semestre\Comunicação de dados\TPF\TrabalhoCD\TrabalhoCD\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.pdb
